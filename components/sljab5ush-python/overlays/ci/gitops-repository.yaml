@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: sljab5ush-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/sljab5ush-python-gitops
